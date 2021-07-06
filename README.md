@@ -4,8 +4,10 @@ This Website is made for buisness. On visiting this website one can go to the so
 
 ## Screen-Shot of WebPage.
 
-![Screenshot 2021-07-06 114650](https://user-images.githubusercontent.com/85010722/124551555-f0488800-de4f-11eb-8f04-bc92659bc614.jpg)
-
-               ![Screenshot 2021-07-06 114542](https://user-images.githubusercontent.com/85010722/124551537-e58df300-de4f-11eb-9e9e-da19d9f9e0a6.jpg)
+![Screenshot 2021-07-05 132145](https://user-images.githubusercontent.com/85010722/124551665-1ff79000-de50-11eb-9a6e-c0d9f0634b67.jpg)
+   ### Desktop
+   
+   ![Screenshot 2021-07-06 113720](https://user-images.githubusercontent.com/85010722/124551730-34d42380-de50-11eb-9cd1-e1b0aead773c.jpg)
+   ### Mobile
 
 Thank You!!
