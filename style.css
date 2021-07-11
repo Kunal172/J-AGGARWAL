@@ -275,6 +275,14 @@ p
     transition: 2s;
 }
 
+/*.zoom {
+    transition: transform .2s; 
+  } 
+  
+  .zoom:hover {
+    transform: scale(1.3); 
+  } */
+
 @media (max-width:700px)
 {
     .gallery h1
@@ -287,15 +295,31 @@ p
     {
         max-width: 20%;
         padding-left: 18%;
-        justify-content: space-around;
+        justify-content: center;
+        transition: transform .2s;
     }
 
     .gallery-images img:hover
-{
-    padding-right: 12%;
-    box-shadow: 0px 10px 50px rgb(212, 44, 44);
-    transition: 2s;
-}
+    {
+
+    box-decoration-break: slice;
+    padding-right: 10%;
+    transform: scale(2.4);
+    padding-bottom: 10%;
+    margin-left: -8px;
+    margin-top: 14%;
+    
+    }
+
+    .thumbnail:hover
+    {
+        transform: scale(1);
+        padding-top: 16%;
+        margin-bottom: 8px;
+        margin-right: 10%;
+        margin-left: -20px;
+    }
+
 }
 
 /* location */
