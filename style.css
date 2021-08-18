@@ -1,9 +1,14 @@
 *{
     margin: 0;
     padding: 0;
-    font-family:'Baskerville Old Face',Poppins, sans-serif;  
-    overflow-x:hidden;
+    font-family:'Baskerville Old Face',Poppins, sans-serif;
+    overflow-x: hidden;
 }
+
+/* body
+{
+    overflow-x: hidden;
+} */
 
 .header
 {
@@ -432,8 +437,8 @@ p
     {
         font-size: 36px;
     }
-    
-        #mail
+
+    #mail
     {
         font-size: 16px;
     }
