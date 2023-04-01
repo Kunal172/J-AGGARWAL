@@ -220,15 +220,14 @@ p
 {
     font-size: 47px;
     padding-top: 266px;
-    color:rgb(255, 255, 163);
+    color:#FFFFA3;
     text-align: center;
 }
 
 .hours ul
 {
     text-align: center;
-    color:cornsilk;
-
+    color:#F5F8DC;
 }
 
 
@@ -254,6 +253,12 @@ p
     width: 80%;
     margin-left: 8em;
     margin-bottom: 4em;
+    /* height: 120%; */
+ }
+
+ .d-block
+ {
+    height: 140%;
  }
 
 @media (max-width:700px)
@@ -267,6 +272,11 @@ p
     .gallery-images
     {
         margin-left: 2em;
+    }
+
+    .d-block
+    {
+        height: 40%;;
     }
 
 }
@@ -437,3 +447,6 @@ p
         margin-top: 2%;
     }
 } 
+.freechat-bottom {
+    height: 120px;
+}
